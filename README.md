@@ -30,20 +30,6 @@ To collect employee details, validate inputs, and calculate gross and net salary
 
 ## Output
 
-Enter Employee Name: Divya
-Enter Employee ID: 12617
-Enter Basic Pay: 30000.0
-
---- Employee Salary Report ---
-Employee Name: Divya
-Employee ID: 12617
-Basic Pay: 30000.0
-HRA: 4500.0
-DA: 3000.0
-Gross Salary: 37500.0
-Tax Deducted: 3000.0
-Net Salary: 34500.0
-
 ## ✅ Result
 
 The program successfully accepts and validates employee details, calculates allowances and deductions, and displays a well-formatted salary report.
